@@ -38,7 +38,7 @@ This data set comes under classification problem, as the input URL is classified
 * Autoencoder Neural Network
 * Support Vector Machines
 
-All these models are trained on the dataset and evaluation of the model is done with the test dataset. The elaborate details of the models & its training are mentioned in [Phishing Website Detection_Models & Training.ipynb](https://github.com/shreyagopal/Phishing-Website-Detection-by-Machine-Learning-Techniques/blob/master/Phishing%20Website%20Detection_Models%20%26%20Training.ipynb)
+All these models are trained on the dataset and evaluation of the model is done with the test dataset. The elaborate details of the models & its training are mentioned in [Phishing Website Detection_Models & Training.ipynb](https://github.com/TheQuestHS/Phishing-Website-Detection-using-Machine-Learning-Techniques/blob/51bbed277bd833137122d7351746fc78dd8865a7/Phishing%20Website%20Detection_Models%20%26%20Training.ipynb)
 
 
 ## End Results
